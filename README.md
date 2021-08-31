@@ -1,5 +1,5 @@
 # The Breakthrough Listen Search for Intelligent Life: Searching Boyajian’s Star for Laser Line Emission
-I was lead author of the paper "The Breakthrough Listen Search for Intelligent Life: Searching Boyajian’s Star for Laser Line Emission," which got published in the Publications of the Astronomical Society of the Pacific (PASP) in March 2019. This research was conducted largely using Python and associated packages NumPy, SciPy, and Matploblib.
+I was lead author of the paper "The Breakthrough Listen Search for Intelligent Life: Searching Boyajian’s Star for Laser Line Emission," which got published in the Publications of the Astronomical Society of the Pacific (PASP) in March 2019. This research was conducted largely using Python and associated packages NumPy, SciPy, and Matplotlib.
 
 ## Abstract
 Boyajian’ s Star (KIC 8462852) has received significant attention due to its unusual periodic brightness fluctuations detected by the Kepler Spacecraft and subsequent ground based observations. Possible
